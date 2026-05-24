@@ -119,3 +119,19 @@ select {
   font-size: 14px;
   font-weight: 500;
 }
+
+.like-button {
+  margin-top: 12px;
+  padding: 6px 10px;
+
+  border: none;
+  border-radius: 6px;
+
+  background-color: #2563eb;
+  color: #ffffff;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  cursor: pointer;
+}
