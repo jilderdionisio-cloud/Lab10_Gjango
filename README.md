@@ -5,7 +5,7 @@ Este repositorio contiene el trabajo en grupo para el proyecto Lab10_Gjango.
 ## Integrantes del equipo
 
 - Jilder Alex Dionisio Rojas
-- Adriana Camila
+- Adriana Chinchayhuara
 - Naomi Veliz
 
 ### Tecnologías utilizadas
@@ -30,34 +30,70 @@ npm run lint
 
 ### Jilder Alex Dionisio Rojas
 
-Las capturas actuales en la carpeta `doc/` son evidencia del trabajo de Jilder Alex Dionisio Rojas.
+Las capturas actuales en la carpeta `doc/` son evidencia del trabajo del equipo.
+
+#### Proyecto limpio, renderizado y sin errores
 
 ![Evidencia 1](doc/cap1.png)
 
+#### Creación de componente con variables y uso
+
 ![Evidencia 2](doc/cap2.png)
+
+#### Props en el componente creado
 
 ![Evidencia 3](doc/cap3.png)
 
+#### Estado en el componente
+
 ![Evidencia 4](doc/cap4.png)
+
+#### Manejo de estado mediante eventos
 
 ![Evidencia 5](doc/cap5.png)
 
-### Adriana Camila
 
-Las evidencias de Adriana Camila deben agregarse en la sección correspondiente cuando estén disponibles.
+### Adriana Chinchayhuara
+
+Evidencias:
+
+#### Proyecto limpio, renderizado y sin errores
+
+![Evidencia 1](doc/adriana-cap1.jpeg)
+
+#### Creación de componente con variables y uso
+
+![Evidencia 2](doc/adriana-cap2.jpeg)
+
+#### Props en el componente creado
+
+![Evidencia 3](doc/adriana-cap3.jpeg)
+
+#### Estado en el componente
+
+![Evidencia 4](doc/adriana-cap4.jpeg)
+
+#### Manejo de estado mediante eventos
+
+![Evidencia 5](doc/adriana-cap5.jpeg)
+
 
 ### Naomi Veliz
 
 Las evidencias de Naomi Veliz deben agregarse en la sección correspondiente cuando estén disponibles.
 
-## Cómo usar
+#### Proyecto limpio, renderizado y sin errores
 
-1. Abrir la carpeta `Jilder Dionisio/cinespoilers/`.
-2. Ejecutar `npm install` para instalar dependencias.
-3. Ejecutar `npm run dev` para iniciar el servidor de desarrollo.
-4. Abrir la URL proporcionada por Vite en el navegador.
+#### Creación de componente con variables y uso.
+
+#### Props en el componente creado
+
+#### Estado en el componente
+
+#### Manejo de estado mediante eventos
+
 
 ## Notas
 
-- El repositorio puede contener material adicional en `Adrina/` y `Naomi veliz/`.
+- El repositorio puede contener material adicional en `Adriana/` y `Naomi veliz/`.
 - El README se enfoca en el subproyecto principal y las evidencias de grupo.
