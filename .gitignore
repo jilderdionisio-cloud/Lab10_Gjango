@@ -1,0 +1,11 @@
+# Root gitignore for Lab10_Gjango
+
+# Ignore node modules and build artifacts in the cinespoilers subfolder
+Jilder Dionisio/cinespoilers/node_modules/
+Jilder Dionisio/cinespoilers/dist/
+Jilder Dionisio/cinespoilers/.DS_Store
+Jilder Dionisio/cinespoilers/.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
