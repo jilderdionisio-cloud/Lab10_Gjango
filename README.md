@@ -83,15 +83,20 @@ Evidencias:
 Las evidencias de Naomi Veliz deben agregarse en la sección correspondiente cuando estén disponibles.
 
 #### Proyecto limpio, renderizado y sin errores
+![Evidencia 1](doc/cap1Veliz.png)
+![Evidencia1.1](doc/cap2Veliz.png)
 
 #### Creación de componente con variables y uso.
+![Evidencia 2](doc/cap3Veliz.png)
 
 #### Props en el componente creado
+![Evidencia 3](doc/cap4Veliz.png)
 
 #### Estado en el componente
+![Evidencia 5](doc/cap5Veliz.png)
 
 #### Manejo de estado mediante eventos
-
+![alt text](doc/cap6Veliz.png)
 
 ## Notas
 
