@@ -1,0 +1,137 @@
+:root {
+  --color-bg: #0f0f12;
+  --color-surface: #1a1a1f;
+  --color-card: #f5f5f5;
+
+  --color-text: #f5f5f5;
+  --color-muted: #a1a1aa;
+  --color-card-text: #111111;
+
+  --color-border: #27272a;
+  --color-accent: #e879f9;
+
+  --font-main: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  font-family: var(--font-main);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg: #ffffff;
+    --color-surface: #f4f4f5;
+    --color-card: #ffffff;
+
+    --color-text: #18181b;
+    --color-muted: #71717a;
+    --color-card-text: #111111;
+
+    --color-border: #e4e4e7;
+    --color-accent: #c026d3;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.app-title {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+
+  margin-bottom: 32px;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.card {
+  width: 100%;
+  max-width: 420px;
+
+  padding: 24px;
+
+  border-radius: 14px;
+  border: 1px solid var(--color-border);
+
+  background-color: var(--color-card);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+.card h2 {
+  color: var(--color-card-text);
+
+  font-size: 18px;
+  font-weight: 700;
+
+  margin-bottom: 8px;
+}
+
+.card p {
+  color: #52525b;
+
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.like-button {
+  margin-top: 12px;
+  padding: 6px 10px;
+
+  border: none;
+  border-radius: 6px;
+
+  background-color: #2563eb;
+  color: #ffffff;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  cursor: pointer;
+}
