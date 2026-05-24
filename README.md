@@ -32,13 +32,15 @@ npm run lint
 
 Las capturas actuales en la carpeta `doc/` son evidencia del trabajo de Jilder Alex Dionisio Rojas.
 
-Imágenes disponibles:
+![Evidencia 1](doc/cap1.png)
 
-- `doc/cap1.png`
-- `doc/cap2.png`
-- `doc/cap3.png`
-- `doc/cap4.png`
-- `doc/cap5.png`
+![Evidencia 2](doc/cap2.png)
+
+![Evidencia 3](doc/cap3.png)
+
+![Evidencia 4](doc/cap4.png)
+
+![Evidencia 5](doc/cap5.png)
 
 ### Adriana Camila
 
