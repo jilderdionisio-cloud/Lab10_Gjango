@@ -5,7 +5,7 @@ Este repositorio contiene el trabajo en grupo para el proyecto Lab10_Gjango.
 ## Integrantes del equipo
 
 - Jilder Alex Dionisio Rojas
-- Adriana Camila
+- Adriana Chinchayhuara
 - Naomi Veliz
 
 ### Tecnologías utilizadas
